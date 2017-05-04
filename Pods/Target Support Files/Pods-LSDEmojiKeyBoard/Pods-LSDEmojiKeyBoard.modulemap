@@ -1,0 +1,6 @@
+framework module Pods_LSDEmojiKeyBoard {
+  umbrella header "Pods-LSDEmojiKeyBoard-umbrella.h"
+
+  export *
+  module * { export * }
+}

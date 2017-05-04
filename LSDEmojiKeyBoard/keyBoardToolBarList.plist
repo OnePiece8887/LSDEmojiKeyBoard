@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>imageName</key>
+		<string>compose_toolbar_picture</string>
+		<key>action</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>compose_mentionbutton_background</string>
+		<key>action</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>compose_trendbutton_background</string>
+		<key>action</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>compose_emoticonbutton_background</string>
+		<key>action</key>
+		<string>inputEmoticon</string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>compose_addbutton_background</string>
+		<key>action</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
