@@ -65,9 +65,6 @@
     
     [self setupToolBar];
     
-    
-//    self.lineHeight = self.textView.font.lineHeight;
-    
 }
 
 -(void)setupTextView{

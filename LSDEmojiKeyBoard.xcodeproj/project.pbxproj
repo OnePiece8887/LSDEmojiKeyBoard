@@ -30,7 +30,6 @@
 		EA022F5D1EB1EBCA00B087A3 /* LSDBaseModel.m in Sources */ = {isa = PBXBuildFile; fileRef = EA022F5C1EB1EBCA00B087A3 /* LSDBaseModel.m */; };
 		EA022F661EB1F4B100B087A3 /* LSDEmoticonModel.m in Sources */ = {isa = PBXBuildFile; fileRef = EA022F651EB1F4B100B087A3 /* LSDEmoticonModel.m */; };
 		EA022F691EB2DDE600B087A3 /* LSDEmoticonButton.m in Sources */ = {isa = PBXBuildFile; fileRef = EA022F681EB2DDE600B087A3 /* LSDEmoticonButton.m */; };
-		EA2E7FB01EBB26E000D31A80 /* LSDTextAttachment.m in Sources */ = {isa = PBXBuildFile; fileRef = EA2E7FAF1EBB26E000D31A80 /* LSDTextAttachment.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -98,8 +97,6 @@
 		EA022F651EB1F4B100B087A3 /* LSDEmoticonModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LSDEmoticonModel.m; sourceTree = "<group>"; };
 		EA022F671EB2DDE600B087A3 /* LSDEmoticonButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LSDEmoticonButton.h; sourceTree = "<group>"; };
 		EA022F681EB2DDE600B087A3 /* LSDEmoticonButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LSDEmoticonButton.m; sourceTree = "<group>"; };
-		EA2E7FAE1EBB26E000D31A80 /* LSDTextAttachment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LSDTextAttachment.h; sourceTree = "<group>"; };
-		EA2E7FAF1EBB26E000D31A80 /* LSDTextAttachment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LSDTextAttachment.m; sourceTree = "<group>"; };
 		ECF541BF5AD712F82345CD35 /* Pods_LSDEmojiKeyBoard.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LSDEmojiKeyBoard.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -276,8 +273,6 @@
 				EA022F4E1EB1E67500B087A3 /* LSDEmoticonFootView.m */,
 				EA022F4F1EB1E67500B087A3 /* LSDEmoticonView.h */,
 				EA022F501EB1E67500B087A3 /* LSDEmoticonView.m */,
-				EA2E7FAE1EBB26E000D31A80 /* LSDTextAttachment.h */,
-				EA2E7FAF1EBB26E000D31A80 /* LSDTextAttachment.m */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -569,7 +564,6 @@
 				EA022F521EB1E67500B087A3 /* LSDEmoticonFootView.m in Sources */,
 				EA022EF31EB1A90000B087A3 /* ViewController.m in Sources */,
 				EA022EF01EB1A90000B087A3 /* AppDelegate.m in Sources */,
-				EA2E7FB01EBB26E000D31A80 /* LSDTextAttachment.m in Sources */,
 				EA022F691EB2DDE600B087A3 /* LSDEmoticonButton.m in Sources */,
 				EA022EED1EB1A90000B087A3 /* main.m in Sources */,
 			);
